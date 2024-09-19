@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: repo-102
+  annotations:
+    github.com/project-slug: portal-demo-large-org/repo-102
+spec:
+  type: website
+  lifecycle: experimental
+  owner: portal
